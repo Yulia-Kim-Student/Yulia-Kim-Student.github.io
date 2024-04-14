@@ -1,0 +1,17 @@
+10 4
+Outlook Temperature Humidity Windy
+overcast hot high FALSE 1
+sunny mild high FALSE 0
+overcast mild high TRUE 1
+rainy mild normal FALSE 1
+overcast hot normal FALSE 1
+rainy mild high FALSE 1
+rainy cool normal FALSE 1
+rainy mild high TRUE 0
+sunny hot high FALSE 0
+sunny hot high TRUE 0
+4
+rainy cool normal TRUE
+sunny cool normal FALSE
+overcast cool normal TRUE
+sunny mild normal TRUE
