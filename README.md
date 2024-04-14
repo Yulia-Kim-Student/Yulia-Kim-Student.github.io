@@ -1,1 +1,1 @@
-# for_study.github.io
+# Yulia-Kim-Student.github.io
